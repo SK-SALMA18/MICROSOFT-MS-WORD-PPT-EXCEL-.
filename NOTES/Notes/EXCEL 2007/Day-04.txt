@@ -1,0 +1,38 @@
+TOPICS:
+========
+--->FORMATING CELLS
+=====================
+1.Font Options.
+2.Borders & Shadings.
+3.Aligments.
+4.Cell Orientation.
+5.Merge and Center,Wrap Text.
+6.Cell Type.
+
+
+1.Font Options.
+===============
+HOME-->FONT OPTIONS-->CHANGE FONT AS UR WISH.
+CTRL+B-->BOLD
+CTRL+U-->UNDERLINE
+CTRL+I-->ITALIC
+
+2.Borders & Shadings.
+=======================
+FONT STYLE-->BORDERS BOX THERE WE CAN CHANGE OUR BORDER STYLES AND SHADING.
+
+3.Aligments.
+=============
+HOME TAB-->Aligments THERE WE CAN CHNAGE Aligments.
+
+4.Cell Orientation:
+====================
+HOME TAB--->Aligments-->CELL Orientation--->HERE WE CAN JUST OUR POSTIONS.
+
+5.Merge and Center,Wrap Text:
+=================================
+ALIGMENTS --->MERGE AND WRAP 
+
+6.CELL TYPE:
+=============
+HOME TAB-->CORNER MIDDLE-->GENERAL TAB THERE WE CAN CHANGE OUR CELL TYPE.

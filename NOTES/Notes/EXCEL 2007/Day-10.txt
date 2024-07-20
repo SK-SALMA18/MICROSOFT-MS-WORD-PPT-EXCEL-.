@@ -1,0 +1,18 @@
+TOPICS:
+==========
+1.CALCULATING
+2.TOTAL WISE PASS/FAIL MARKS
+3.SUBJECT WISE MARKS
+4.GRADING
+
+GRADING:
+===========
+=IF(J4>=90,"A+",IF(J4>=80,"A",IF(J4>=60,"B",IF(J4>=40,"C",IF(J4>=35,"D","fail")))))
+
+SUBJECT WISE MARKS:
+======================
+IF(AND(C3>=35,D3>=35,E3>=35,F3>=35,G3>=35,H3>=35),"Pass","Fail")
+
+TOTAL WISE PASS/FAIL MARKS:
+=============================
+IF(I3>=210,"PASS","FAIL").

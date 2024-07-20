@@ -1,0 +1,21 @@
+MICRO POWERPOINT
+===================
+PRESENTATION:
+--------------
+1.Graphical Presentation (visualization)
+   ↓↓↓↓   
+SLIDES:
+--------
+1.Text Boxes
+2.Shapes
+3.Clip Arts
+4.Word Arts
+5.Audio & Video Clips
+6.Charts
+7.Animation Effects
+
+
+1.CTRL+N to open new page
+2.CTRL+M to open new SLIDES.
+
+

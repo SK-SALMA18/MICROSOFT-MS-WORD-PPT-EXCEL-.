@@ -1,0 +1,31 @@
+TOPICS:
+=========
+1.Format Painter
+2.Cell Reference
+3.Entering Formula
+4.Change Column Width
+5.Change Row Height
+
+
+1.Format Painter:
+==================
+Home tab--->Clipboard--->Format Painter
+
+2.Cell Reference:
+==================
+2 types of Cell Reference
+1.Realtive Reference:directly calling cell Reference is called as Realtive Reference.
+ex:A1,B1
+2.Absolute Reference:->it is represented with $ 
+ex:($A$1).
+Difference b/w them is we can change the Formula in Realtive Reference but 
+in Absolute Reference it is not possible it remains same.
+
+3.Entering Formula:
+======================
+-->Will Entering a Formula in Excel sheet first we need to start with = symbol.
+
+4.Change Column Width
+5.Change Row Height
+======================
+HOME TAB->CELLS->FORMAT-->COLUMN/ROW Height/Width.

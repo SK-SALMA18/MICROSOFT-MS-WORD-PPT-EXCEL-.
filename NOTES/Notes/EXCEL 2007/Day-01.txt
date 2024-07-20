@@ -1,0 +1,9 @@
+Introduction:
+================
+Excel Basics:
+     |||
+     vvv
+     In Excel Sheets Rows,Columns,Cell are present.
+     Rows--->65536 -->how to active cell shortcut key (ctrl+downarrow to go end of the row and ctrl+up begin cell)
+     Columns--->1048576 -->how to active cells shortcut key (ctrl+right arrow to end of col and ctrl+ leftarrow starting of cell)
+     Cells-->cell address starts with A1(A col and 1st row).

@@ -1,0 +1,41 @@
+TOPICS:
+============
+
+1.Entering Data And Editing
+2.Insert Rows,Columns and cells
+3.Delete Rows,Columns and cells
+4.Delete a WorkShee-->HOME BAR-->CELLS-->INSERT WORKSHEET
+5.Save,Open and New Options
+6.Data Selection--->SELECT AND DRAG.
+7.Cut,copy,paste,undo and redo.
+
+
+
+1.Entering Data And Editing:
+=================================
+select and drag the cell (or) enter a number and drag and press ctrl.
+
+2.Insert Rows,Columns and cells:
+=================================
+INSERT COL-->HOME BAR-->CELLS-->INSERT CEELL-->ENTEIR COL.
+INSERT ROW-->HOME BAR-->CELLS-->INSERT CEELL-->ENTEIR row.
+
+3.Delete Rows,Columns and cells:
+=====================================
+DELETE COL-->HOME BAR-->CELLS-->DELETE CEELL-->ENTEIR COL.
+DELETE ROW-->HOME BAR-->CELLS-->DELETE CEELL-->ENTEIR row.
+
+CTRL+N--->TO OPEN BLANK WORKBOOK.
+CTRL+O-->TO OPEN THE FILE
+CTRL+S-->TO SAVE.
+F12-->SAVE AS 
+COPY-->CTRL C
+CUT-->CTRL X
+PASTE-->CTRL v
+UNDO -->CTRL Z
+REDO -->
+
+DATA SELECTION:
+COLUMN -->ENTIRE COL WILL SELECT 
+ROW-->ENTIRE ROW WILL SELECT
+COL&ROW-->SELECT ROW/COL AND PRESS CTRL THEN PARTICULAR ROWS/COL WILL SELECTED.

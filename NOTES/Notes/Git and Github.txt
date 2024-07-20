@@ -1,0 +1,78 @@
+Git:
+========
+-->Git is an open-source distributed "VERSION CONTROL SYSTEM".
+-->It is designed to handle minor to major projects with high speed and efficiency. 
+-->It is developed to co-ordinate the work among the developers. 
+-->The version control allows us to track and work together with our team members at the same workspace.
+
+GitHub:
+=========
+-->GitHub is a Git repository hosting service.
+-->GitHub also facilitates with many of its features, such as access control and collaboration. 
+-->It provides a Web-based graphical interface.
+
+How to Install Git on Windows:
+=========================================
+To use Git, you have to install it on your computer. 
+How to download Git?
+Step1
+======
+-->To download the Git installer, visit the Git's official site and go to download page.
+-->The link for the download page is https://git-scm.com/downloads. 
+-->Install Git on Windows
+-->Click on the package given on the page as download 2.23.0 for windows.
+-->The download will start after selecting the package.
+-->Now, the Git installer package has been downloaded.
+-->Install Git
+Step2
+======
+-->Click on the downloaded installer file and select yes to continue. 
+-->After the selecting yes the installation begins Install Git on Windows
+-->Click on next to continue.
+Step3
+=======
+Default components are automatically selected in this step.
+Click next to continue.
+Step4
+======
+The default Git command-line options are selected automatically. You can choose your preferred choice. 
+Click next to continue.
+Step5
+======
+The default transport backend options are selected in this step. 
+Click next to continue.
+Step6
+========
+Select your required line ending option and click next to continue.
+Step7
+======
+Select preferred terminal emulator clicks on the next to continue.
+Step8
+=======
+This is the last step that provides some extra features like system caching, credential management and symbolic link. 
+Select the required features and click on the next option.
+Step9
+=======
+The files are being extracted in this step.
+Therefore, The Git installation is completed. Now you can access the Git Gui and Git Bash.
+Create New Repository
+Clone Existing Repository
+Open Existing Repository
+
+
+How to Create a GitHub Account:
+===================================
+-->Go to chrome "github.com"
+-->Choose the first link and signup ur Account
+-->Ur account will Created successfully.
+Git Commands:
+=============
+1.git init -->(instalizating the git).
+2.git status -->(Checking the status).
+3.git add filename/foldername -->(adding files in github account).
+4.git commit -m "some name" -->(commitng the message).
+5.git remote add origin "path".
+6.git push -u origin master/main.
+
+firstly
+we need to create Repository in github after that we need to follow the above steps.
